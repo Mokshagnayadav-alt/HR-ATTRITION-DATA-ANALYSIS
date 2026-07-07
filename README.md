@@ -31,15 +31,17 @@ This project analyzes employee attrition using SQL Server and Microsoft Excel. I
 
 ---
 
-## 🎥 Dashboard Walkthrough
+## 🎥 Dashboard Demonstration
 
 <p align="center">
-  <a href="https://github.com/
-Mokshagnayadav-alt/HR-Employee-Attrition-Analysis/blob/main/Dashboard/hr recording.mp4">
-    <img src="Dashboard/ChatGPT Image Jun 27, 2026, 10_25_44 AM.png" width="900" alt="Click to watch dashboard demo">
+  <a href="./Dashboard/hr recording.mp4">
+    <img src="./Dashboard/ChatGPT Image Jun 27, 2026, 10_25_44 AM.png" alt="HR Dashboard" width="900">
   </a>
 </p>
 
+<p align="center">
+  <b>👆 Click the dashboard image above to watch the interactive dashboard demonstration.</b>
+</p>
 <p align="center">
   👆 Click the dashboard image above to watch the interactive dashboard demonstration.
 </p>
