@@ -18,7 +18,7 @@ This project analyzes employee attrition using SQL Server and Microsoft Excel. I
 ## 🔄 End-to-End Workflow
 
 <p align="center">
-  <img src="Dashboard/data_analytics_workflow_infographic" width="900">
+  <img src="Dashboard/data_analytics_workflow_infographic.png" width="900">
 </p>
 
 ---
@@ -26,7 +26,7 @@ This project analyzes employee attrition using SQL Server and Microsoft Excel. I
 ## 📈 Interactive HR Dashboard
 
 <p align="center">
-  <img src="Dashboard/dashboard.png" width="900">
+  <img src="Dashboard/ChatGPT Image Jun 27, 2026, 10_25_44 AM.png" width="900">
 </p>
 
 ---
@@ -35,7 +35,7 @@ This project analyzes employee attrition using SQL Server and Microsoft Excel. I
 
 <p align="center">
   <a href="https://github.com//HR-Employee-Attrition-Analysis/blob/main/Dashboard/hr recording.mp4">
-    <img src="Dashboard/dashboard.png" width="900" alt="Click to watch dashboard demo">
+    <img src="Dashboard/ChatGPT Image Jun 27, 2026, 10_25_44 AM.png" width="900" alt="Click to watch dashboard demo">
   </a>
 </p>
 
@@ -68,11 +68,13 @@ This project analyzes employee attrition using SQL Server and Microsoft Excel. I
 
 ## 💡 Business Insights
 
-- Employees working overtime have a higher attrition rate.
-- HR and Sales departments experience the highest turnover.
-- Employees with lower salaries are more likely to leave.
-- Employees with 2–5 years of experience show the highest attrition.
-- Work-life balance and compensation significantly influence retention.
+🔹 HR and Sales departments have the highest attrition.
+🔹 Overtime increases the likelihood of employees leaving.
+🔹 Lower-paid employees are more likely to resign.
+🔹 Employees with 2–5 years of tenure require focused retention strategies.
+🔹 Job satisfaction alone does not guarantee employee retention.
+🔹 Compensation and career growth are major drivers of long-term retention.
+🔹 Improving work-life balance can help reduce employee turnover.
 
 ---
 
