@@ -42,9 +42,6 @@ This project analyzes employee attrition using SQL Server and Microsoft Excel. I
 <p align="center">
   <b>👆 Click the dashboard image above to watch the interactive dashboard demonstration.</b>
 </p>
-<p align="center">
-  👆 Click the dashboard image above to watch the interactive dashboard demonstration.
-</p>
 
 ---
 
